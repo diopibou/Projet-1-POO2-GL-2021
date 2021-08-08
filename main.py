@@ -1,0 +1,2 @@
+from pont import *
+pont()
